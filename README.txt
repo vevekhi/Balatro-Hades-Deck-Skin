@@ -11,6 +11,4 @@ Queen of Hearts - Nyx
 Jack of Hearts - Zagreus
 
 
-<img width="886" height="709" alt="Deck skin ingame" src="https://github.com/user-attachments/assets/8cc45e0f-99ed-4c9b-a2b4-70af66967309" />
-
 All assets by me.
