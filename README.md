@@ -6,8 +6,11 @@ Requires Steammodded {https://github.com/Steamodded/smods?tab=readme-ov-file}
 follow the steammodded instilation process and drop in the unzipped folder in the 'mods' folder
 
 King of Hearts - Hades
+
 Queen of Hearts - Nyx
+
 Jack of Hearts - Zagreus
+
 
 <img width="886" height="709" alt="Deck skin ingame" src="https://github.com/user-attachments/assets/8cc45e0f-99ed-4c9b-a2b4-70af66967309" />
 
