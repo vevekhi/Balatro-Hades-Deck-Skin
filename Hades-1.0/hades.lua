@@ -1,14 +1,14 @@
 --- STEAMODDED HEADER
 --- MOD_NAME: Hades Deck Skin
---- MOD_ID: hd_deck
---- PREFIX: hd
+--- MOD_ID: hades_deck
+--- PREFIX: hades
 --- MOD_AUTHOR: [Vevekhi]
 --- MOD_DESCRIPTION: Hades deck skins. All assets by vevekhi.
 --- LOADER_VERSION_GEQ: 1.0.0
---- VERSION: 1.0.0
+--- VERSION: 1.1.0
 --- BADGE_COLOR: 480809
 
-local atlas_key = 'hd_atlas' -- Format: PREFIX_KEY
+local atlas_key = 'hades_atlas' -- Format: PREFIX_KEY
 -- See end of file for notes
 local atlas_path = 'hd_lc.png' -- Filename for the image in the asset folder
 local atlas_path_hc = 'hd_hc.png' -- Filename for the high-contrast version of the texture, if existing
@@ -58,7 +58,7 @@ for _, suit in ipairs(suits) do
         loc_txt = {
             ['en-us'] = description
         },
-        posStyle = 'deck'
+        posStyle = 'collab'
     }
 end
 
