@@ -1,0 +1,13 @@
+Hades deck skins
+
+Requires Steammodded {https://github.com/Steamodded/smods?tab=readme-ov-file}
+follow the steammodded instilation process and drop in the unzipped folder in the 'mods' folder
+
+Featuring Custom Face cards:
+						
+K - Hades 
+Q - Nyx
+J - Zagreus
+
+Sprite work By @vevekhi
+Thanks to @mahuru05‬ for making the Deltarune skin mod from which the code was based off of.
