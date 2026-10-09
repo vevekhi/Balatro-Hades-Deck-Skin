@@ -11,6 +11,7 @@ Queen of Hearts - Nyx
 Jack of Hearts - Zagreus
 
 
-<img width="886" height="709" alt="Deck skin ingame" src="https://github.com/user-attachments/assets/8cc45e0f-99ed-4c9b-a2b4-70af66967309" />
+<img width="889" height="534" alt="Hades deck skin ingame" src="https://github.com/user-attachments/assets/f32fd3da-ce10-4ec8-9db5-6d51ff4dc9ec" />
+
 
 All assets by me.
