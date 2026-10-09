@@ -5,7 +5,7 @@
 --- MOD_AUTHOR: [Vevekhi]
 --- MOD_DESCRIPTION: Hades deck skins. All assets by vevekhi.
 --- LOADER_VERSION_GEQ: 1.0.0
---- VERSION: 1.1.0
+--- VERSION: 1.2.0
 --- BADGE_COLOR: 480809
 
 local atlas_key = 'hades_atlas' -- Format: PREFIX_KEY
